@@ -7,23 +7,19 @@ I am a recent graduate with a profound interest in technology and a dedication t
 Passionate cybersecurity enthusiast seeking to leverage skills in building robust workloads and systems. Eager to collaborate with like-minded individuals, and enhance security measures through innovative solutions and best practices. Committed to continuous learning and staying updated with the latest trends in cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMAP-4EAA25?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Greenbone%20Vulnerability%20Management-00B300?&style=for-the-badge&logo=Greenbone&logoColor=white" />
 </div>
 
 ### Endpoint
