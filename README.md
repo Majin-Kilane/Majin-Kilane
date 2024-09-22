@@ -34,7 +34,6 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20365%20Certified%3A%20Administrator%20Expert-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
