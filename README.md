@@ -50,8 +50,8 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 <img src="https://img.shields.io/badge/-Deploy%20Containers%20by%20Using%20Azure%20Kubernetes%20Service-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Secure%20Azure%20Services%20and%20Workloads%20with%20Microsoft%20Defender%20for%20Cloud%20Regulatory%20Compliance%20Controls-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Secure%20Storage%20for%20Azure%20Files%20and%20Azure%20Blob%20Storage-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-
-
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />    
+<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
