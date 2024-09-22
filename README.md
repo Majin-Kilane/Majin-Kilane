@@ -43,9 +43,15 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 <img src="https://img.shields.io/badge/-Microsoft%20365%20Certified%3A%20Administrator%20Expert-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20AI%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Configure%20Secure%20Access%20to%20Your%20Workloads%20Using%20Azure%20Networking-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Configure%20SIEM%20Security%20Operations%20Using%20Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Deploy%20and%20Configure%20Azure%20Monitor-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Deploy%20Containers%20by%20Using%20Azure%20Kubernetes%20Service-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Secure%20Azure%20Services%20and%20Workloads%20with%20Microsoft%20Defender%20for%20Cloud%20Regulatory%20Compliance%20Controls-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Secure%20Storage%20for%20Azure%20Files%20and%20Azure%20Blob%20Storage-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
