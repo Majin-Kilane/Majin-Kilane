@@ -50,5 +50,5 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 </div>
 
 ## Projects
-- Detection Lab
+- Active Directory
 - SOC Automation Project
