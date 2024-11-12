@@ -10,7 +10,6 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/Majin-Kilane/Active-Directory/blob/main/README.md">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
 ## Tools
@@ -51,4 +50,3 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 
 ## Projects
 - <a href="https://github.com/Majin-Kilane/Active-Directory/blob/main/README.md">Active Directory Lab</a>
-- SOC Automation Project
