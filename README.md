@@ -10,6 +10,7 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/Majin-Kilane/Active-Directory/blob/main/README.md">Active Directory Lab</a>|
+| SIEM - Wazuh                                  | <a href="https://github.com/Majin-Kilane/SOC-Homelab-Wazuh/edit/main/README.md">Active Directory Lab</a>|
 
 
 ## Tools
