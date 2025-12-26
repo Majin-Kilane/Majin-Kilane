@@ -50,3 +50,4 @@ Passionate cybersecurity enthusiast seeking to leverage skills in building robus
 
 ## Projects
 - <a href="https://github.com/Majin-Kilane/Active-Directory/blob/main/README.md">Active Directory Lab</a>
+- <a href="https://github.com/Majin-Kilane/SOC-Homelab-Wazuh/edit/main/README.md">SOC Homelab Wazuh</a>
